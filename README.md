@@ -5,7 +5,7 @@
 
 
 1. [Jupyter Notebook](1-01JupyterNotebook.ipynb)
-2. [Image Test}(test.md)
+2. [Image Test](test.md)
 
 # Day2
 
